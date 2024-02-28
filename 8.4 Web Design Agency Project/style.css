@@ -35,8 +35,10 @@ footer {
   float: right;
 }
 
-img{
+.tile-image{
+  height: 250px;
   float: left;
+  margin-right: 30px;
 }
 
 
